@@ -23,4 +23,18 @@ export default {
   methods: {}
 }
 </script>
-<style lang="less" scoped></style>
+<style lang="scss" scoped>
+
+// pc端
+@media screen and (min-width: 992px) {
+    .page-view{
+        font-size: 28px;
+    }
+}
+// 移动端
+@media screen and (max-width: 992px) {
+    .page-view{
+        font-size: 32px;
+    }
+}
+</style>
