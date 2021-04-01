@@ -1,5 +1,7 @@
 module.exports = {
     plugins: {
+      // tailwindcss
+      tailwindcss: {},
       // 兼容浏览器，添加前缀
       autoprefixer: {
         overrideBrowserslist: [
