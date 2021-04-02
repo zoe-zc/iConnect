@@ -1,13 +1,15 @@
 <template>
-  <div class="page-view">
-    home
+  <div class="page-view bg-red-400 border-green-500 rounded-2xl">
+    <get-cookie />
+    我是占位123323
   </div>
 </template>
 <script>
+import GetCookie from "@/components/GetCookie"
 export default {
   name: '',
   mixins: [],
-  components: {},
+  components: {GetCookie},
   // 页面数据部分
   props: {},
   data() {
@@ -20,7 +22,10 @@ export default {
   mounted() {},
   unmounted() {},
   // 页面内方法
-  methods: {}
+  methods: {
+    init() {
+    }
+  }
 }
 </script>
 <style lang="scss" scoped>
