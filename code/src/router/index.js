@@ -6,21 +6,87 @@ const verifyLogin = true //是否验证登录
 const routes = [
   {
     path: '/',
-    name: 'Home',
+    name: 'iConnect',
     meta: {
       title: '首页',
       keepAlive: true
     },
-    component: () => import('@/views/Home/index.vue')
-  },
-  {
-    path: '/login',
-    name: 'Login',
-    meta: {
-      title: '登录',
-      keepAlive: true
-    },
-    component: () => import('@/views/Login/index.vue')
+    component: () => import('@/views/Home/index.vue'),
+    redirect: '/site',
+    children: [
+      {
+        path: '/site',
+        name: 'Site',
+        meta: {
+          title: 'site',
+          keepAlive: true
+        },
+        component: () => import('@/views/Site/index.vue')
+      },
+      {
+        path: '/whyus',
+        name: 'WhyUs',
+        meta: {
+          title: 'whyus',
+          keepAlive: true
+        },
+        component: () => import('@/views/WhyUs/index.vue')
+      },
+      {
+        path: '/newsAndEvents',
+        name: 'NewsAndEvents',
+        meta: {
+          title: 'newsAndEvents',
+          keepAlive: true
+        },
+        component: () => import('@/views/NewsAndEvents/index.vue')
+      },
+      {
+        path: '/news',
+        name: 'News',
+        meta: {
+          title: 'news',
+          keepAlive: true
+        },
+        component: () => import('@/views/News/index.vue')
+      },
+      {
+        path: '/newsDetails',
+        name: 'NewsDetails',
+        meta: {
+          title: 'newsDetails',
+          keepAlive: true
+        },
+        component: () => import('@/views/NewsDetails/index.vue')
+      },
+      {
+        path: '/events',
+        name: 'Events',
+        meta: {
+          title: 'events',
+          keepAlive: true
+        },
+        component: () => import('@/views/Events/index.vue')
+      },
+      {
+        path: '/eventsDetails',
+        name: 'EventsDetails',
+        meta: {
+          title: 'eventsDetails',
+          keepAlive: true
+        },
+        component: () => import('@/views/EventsDetails/index.vue')
+      },
+      {
+        path: '/movieRoom',
+        name: 'MovieRoom',
+        meta: {
+          title: 'movieRoom',
+          keepAlive: true
+        },
+        component: () => import('@/views/MovieRoom/index.vue')
+      }
+    ]
   }
 ]
 Vue.use(Router)

@@ -1,11 +1,18 @@
 <template>
-  <div class="page-view"></div>
+  <div>
+    <FooterLogo />
+    <GlobleFooter />
+    <sSubscribe />
+  </div>
 </template>
 <script>
+import FooterLogo from '@/components/tFooterLogo'
+import GlobleFooter from '@/components/tGlobleFooter'
+import sSubscribe from "@/components/sSubscribe"
 export default {
   name: '',
   mixins: [],
-  components: {},
+  components: { GlobleFooter, FooterLogo, sSubscribe },
   // 数据部分
   props: {},
   data() {
@@ -14,9 +21,9 @@ export default {
   computed: {},
   watch: {},
   // 生命周期
-  created() {},
-  mounted() {},
-  unmounted() {},
+  created() { },
+  mounted() { },
+  unmounted() { },
   // 方法
   methods: {}
 }

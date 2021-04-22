@@ -1,0 +1,36 @@
+
+$rootMobileFontSize: 100;
+
+@function px2rem ($px) {
+  @return $px / $rootMobileFontSize + rem;
+}
+
+
+.container{
+  // max-width: calc(100vw - 492px);
+  max-width: 1154px;
+  margin:  0 auto;
+}
+
+/**
+* 滚动条样式优化
+*/ 
+::-webkit-scrollbar-track-piece {
+  background-color: #fff;
+  -webkit-border-radius: 0;
+}
+// 轨道样式
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+// 内部滑块
+::-webkit-scrollbar-thumb {
+  height: 50px;
+  outline-offset: -2px;
+  outline: #fff solid 2px;
+  -webkit-border-radius: 0;
+  border: 2px solid #fff;
+  background-color: #0085d0;
+  -webkit-border-radius: 4px;
+}

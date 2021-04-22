@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
@@ -8,16 +8,13 @@
 export default {
   name: 'App',
   mounted() {
-    console.log(this.setWidth)
-    window.onresize = () => { 
-        this.setWidth(document.documentElement.clientWidth) 
-        this.setHeight(document.documentElement.clientHeight) 
+    window.onresize = () => {
+      this.setWidth(document.documentElement.clientWidth)
+      this.setHeight(document.documentElement.clientHeight)
     }
   },
-  methods: {
-  },
+  methods: {}
 }
 </script>
 
-<style>
-</style>
+<style></style>
