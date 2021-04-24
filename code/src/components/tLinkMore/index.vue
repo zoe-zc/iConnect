@@ -47,6 +47,8 @@ export default {
   align-items: center;
   cursor: pointer;
   .out-box {
+    width: 30px;
+    height: 30px;
     border: solid 1px #dce1e4;
     border-radius: 50%;
     color: #0085d0;

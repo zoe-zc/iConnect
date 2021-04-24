@@ -8,7 +8,7 @@ const routes = [
     path: '/',
     name: 'iConnect',
     meta: {
-      title: '首页',
+      title: 'iConnect',
       keepAlive: true
     },
     component: () => import('@/views/Home/index.vue'),
@@ -27,10 +27,40 @@ const routes = [
         path: '/whyus',
         name: 'WhyUs',
         meta: {
-          title: 'whyus',
+          title: 'Why Us',
           keepAlive: true
         },
         component: () => import('@/views/WhyUs/index.vue')
+      },
+      {
+        path: '/ProductsAndServices',
+        name: 'ProductsAndServices',
+        meta: {
+          title: 'Products and Services',
+          keepAlive: true
+        },
+        component: () => import('@/views/ProductsAndServices'),
+        redirect: '/ProductsAndServices',
+        children: [
+          {
+            path: '/ProductsAndServices',
+            name: 'ProductsAndServices',
+            meta: {
+              title: 'Products and Services',
+              keepAlive: true
+            },
+            component: () => import('@/views/ProductsAndServices/index.vue'),
+          },
+          {
+            path: '/Solutions',
+            name: 'Solutions',
+            meta: {
+              title: 'Solutions',
+              keepAlive: true
+            },
+            component: () => import('@/views/ProductsAndServices/Solutions.vue'),
+          }
+        ]
       },
       {
         path: '/newsAndEvents',

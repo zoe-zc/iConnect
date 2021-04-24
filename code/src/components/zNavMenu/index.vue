@@ -94,6 +94,10 @@ export default {
         }
       }
 
+      /deep/ .van-ellipsis {
+        color: #0085d0;
+      }
+
       .text {
         margin-right: 22px;
       }
