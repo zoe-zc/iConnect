@@ -1,0 +1,216 @@
+{
+    "lines": [
+        {
+            "name": "REA",
+            "pointsArr": [
+                [
+                    "London",
+                    "Hamburg",
+                    "Copenhagen",
+                    "Stockholm",
+                    "Helslnki"
+                ],
+                [
+                    "Frankfurt",
+                    "Berlin",
+                    "Warsaw",
+                    "Tallinn",
+                    "Helslnki"
+                ],
+                [
+                    "Helslnki",
+                    "St.Petersburg",
+                    "Moscow",
+                    "Samara",
+                    "Omsk",
+                    "Tayshet",
+                    "Ulan-Ude",
+                    "Chita",
+                    "Zabaikalsk",
+                    "Manzhouli",
+                    "BeiJing",
+                    "ShangHai",
+                    "Guangzhou",
+                    "Hong Kong"
+                ]
+            ]
+        },
+        {
+            "name": "Real",
+            "pointsArr": [
+                [
+                    "Frankfurt",
+                    "Prague",
+                    "Katowice",
+                    "Krakow",
+                    "Lviv",
+                    "Rivne",
+                    "Zhitomir",
+                    "Chernihiv",
+                    "Sumy",
+                    "Kharkiv",
+                    "Voronezh",
+                    "Uralsk",
+                    "Aktobe",
+                    "Kyzylorda",
+                    "Shymkent",
+                    "Taraz",
+                    "Shymkent",
+                    "Almaty",
+                    "Khorgos",
+                    "khorgosBeiJingTemp1",
+                    "khorgosBeiJingTemp2",
+                    "BeiJing",
+                    "ShangHai",
+                    "Guangzhou",
+                    "Hong Kong"
+                ]
+            ]
+        },
+        {
+            "name": "ERMC",
+            "pointsArr": [
+                [
+                    "Frankfurt",
+                    "Hamburg",
+                    "Copenhagen",
+                    "Stockholm",
+                    "Helslnki",
+                    "St.Petersburg",
+                    "Moscow",
+                    "Samara",
+                    "Omsk",
+                    "Tayshet",
+                    "Ulan-Ude",
+                    "Darkhan",
+                    "Erenhot",
+                    "BeiJing",
+                    "ShangHai",
+                    "Guangzhou",
+                    "Hong Kong"
+                ]
+            ]
+        },
+        {
+            "name": "DREMA",
+            "pointsArr": [
+                [
+                    "Frankfurt",
+                    "Munich",
+                    "Vienna",
+                    "Lviv",
+                    "LvivAktobetemp1",
+                    "Aktobe",
+                    "Kyzylorda",
+                    "Shymkent",
+                    "Taraz",
+                    "Kara-Balta",
+                    "Almaty",
+                    "Saryozek",
+                    "Alataw Shankou",
+                    "AlatawShankouGuangzhouTemp1",
+                    "AlatawShankouGuangzhouTemp2",
+                    "Guangzhou"
+                ]
+            ]
+        },
+        {
+            "name": "TEA2-4",
+            "pointsArr": [
+                [
+                    "Frankfurt",
+                    "Stockholm",
+                    "Kingisepp",
+                    "Yekaterinburg",
+                    "Noovosibirsk",
+                    "Tayshet",
+                    "Khyagt",
+                    "Erenhot",
+                    "BeiJing",
+                    "ShangHai",
+                    "Guangzhou",
+                    "Hong Kong"
+                ]
+            ]
+        },
+        {
+            "name": "TEA3-4",
+            "pointsArr": [
+                [
+                    "Frankfurt",
+                    "Bratislava",
+                    "Vienna",
+                    "Lutsk",
+                    "Samara",
+                    "Oktyabrsky",
+                    "OktyabrskyNoovosibirskTemp1",
+                    "Noovosibirsk",
+                    "Tayshet",
+                    "Khyagt",
+                    "Erenhot",
+                    "BeiJing",
+                    "ShangHai",
+                    "Guangzhou",
+                    "Hong Kong"
+                ]
+            ]
+        },
+        {
+            "name": "Mekong River Region",
+            "pointsArr": [
+                [
+                    "Guangzhou",
+                    "Hong Kong",
+                    "Kunming"
+                ],
+                [
+                    "Kunming",
+                    "Vientiane",
+                    "Bangkok"
+                ],
+                [
+                    "Kunming",
+                    "Hanoi",
+                    "Ho Chi Minh City",
+                    "Phnom Penh",
+                    "Bangkok"
+                ],
+                [
+                    "Bangkok",
+                    "Kuala Lumpur",
+                    "Singapore"
+                ]
+            ]
+        },
+        {
+            "name": " Mongolia to Europe Region",
+            "pointsArr": [
+                [
+                    "Frankfurt",
+                    "Hanover",
+                    "Warsaw",
+                    "Minsk",
+                    "Moscow",
+                    "Nizhny Novgorod",
+                    "Cheboksary",
+                    "Kszan",
+                    "Perm",
+                    "Yekaterinburg",
+                    "Tyumen",
+                    "Omsk",
+                    "Novosibirsk",
+                    "Barnaul",
+                    "Krasnoyarsk",
+                    "Irkutsk",
+                    "Ulan-Ude",
+                    "Ulaanbaatar",
+                    "Erenhot",
+                    "BeiJing",
+                    "ShangHai",
+                    "Guangzhou",
+                    "Hong Kong"
+                ]
+            ]
+        }
+    ]
+}

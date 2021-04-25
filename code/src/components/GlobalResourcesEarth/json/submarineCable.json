@@ -1,0 +1,450 @@
+{
+    "lines": [
+        {
+            "name": "SMW5",
+            "pointsArr": [
+                [
+                    "SMW5TuasDumai",
+                    "Dumai"
+                ],
+                [
+                    "SMW5TuasDumai",
+                    "Malacca"
+                ],
+                [
+                    "SMW5TuasMedan",
+                    "Medan"
+                ],
+                [
+                    "SMW5NgweSaung",
+                    "Ngwe Saung"
+                ],
+                [
+                    "SMW5Kuakata",
+                    "Kuakata"
+                ],
+                [
+                    "SMW5Matara1",
+                    "Matara"
+                ],
+                [
+                    "SMW5Qalhat",
+                    "Karachi"
+                ],
+                [
+                    "SMW5Qalhat",
+                    "Qalhat"
+                ],
+                [
+                    "SMW5Qalhat",
+                    "Fujairah"
+                ],
+                [
+                    "SMW5Marmaris",
+                    "Marmaris"
+                ],
+                [
+                    "SMW5Catania",
+                    "Catania"
+                ],
+                [
+                    "SMW5Toulon",
+                    "Toulon"
+                ],
+                [
+                    "Tuas",
+                    "SMW5TuasDumai",
+                    "SMW5TuasMedan",
+                    "SMW5NgweSaung",
+                    "SMW5Kuakata",
+                    "SMW5Matara",
+                    "SMW5Matara1",
+                    "SMW5Matara2",
+                    "SMW5Karachi1",
+                    "SMW5Karachi",
+                    "SMW5Qalhat",
+                    "SMW5DjiboutiCity",
+                    "Djibouti city",
+                    "Al-Hudaydah",
+                    "SMW5Yanbu",
+                    "Yanbu",
+                    "Zafarana",
+                    "Abu Talat",
+                    "SMW5Marmaris",
+                    "SMW5Catania",
+                    "SMW5Toulon"
+                ]
+            ]
+        },
+        {
+            "name": "APG",
+            "pointsArr": [
+                [
+                    "Tanah Merah",
+                    "apgKuantan",
+                    "apgSongkhla",
+                    "apgDANANG",
+                    "apgTseungKwanO",
+                    "apgToucheng",
+                    "apgNanhui",
+                    "apgChongming",
+                    "apgBusan",
+                    "apgShima",
+                    "Maruyama"
+                ],
+                [
+                    "apgKuantan",
+                    "Kuantan"
+                ],
+                [
+                    "apgSongkhla",
+                    "Songkhla"
+                ],
+                [
+                    "apgDANANG",
+                    "DA NANG"
+                ],
+                [
+                    "apgTseungKwanO",
+                    "Tseung Kwan O"
+                ],
+                [
+                    "apgToucheng",
+                    "Toucheng"
+                ],
+                [
+                    "apgNanhui",
+                    "Nanhui"
+                ],
+                [
+                    "apgChongming",
+                    "Chongming"
+                ],
+                [
+                    "apgBusan",
+                    "Busan"
+                ],
+                [
+                    "apgShima",
+                    "Shima"
+                ]
+            ]
+        },
+        {
+            "name": "SJC",
+            "pointsArr": [
+                [
+                    "SJCShantou",
+                    "Shantou"
+                ],
+                [
+                    "SJCChungHomKok",
+                    "Chung Hom Kok"
+                ],
+                [
+                    "SJCNasugbu",
+                    "Nasugbu"
+                ],
+                [
+                    "SJCTelisai",
+                    "Telisai"
+                ],
+                [
+                    "Chikura",
+                    "SJCChikura1",
+                    "SJCChikura2",
+                    "SJCShantou",
+                    "SJCChungHomKok",
+                    "SJCNasugbu",
+                    "SJCTelisai",
+                    "Tuas"
+                ]
+            ]
+        },
+        {
+            "name": "SJC-2",
+            "pointsArr": [
+                [
+                    "Changi South",
+                    "apgSongkhla",
+                    "SJC2QuyNhon",
+                    "apgTseungKwanO",
+                    "SJC2Fangshan",
+                    "apgToucheng",
+                    "apgChongming",
+                    "apgBusan",
+                    "apgShima",
+                    "Chikura"
+                ],
+                [
+                    "apgSongkhla",
+                    "Songkhla"
+                ],
+                [
+                    "SJC2QuyNhon",
+                    "Quy Nhon"
+                ],
+                [
+                    "apgTseungKwanO",
+                    "Chung Hom Kok"
+                ],
+                [
+                    "SJC2Fangshan",
+                    "Fangshan"
+                ],
+                [
+                    "apgToucheng",
+                    "Tamsui"
+                ],
+                [
+                    "apgChongming",
+                    "Lingang"
+                ],
+                [
+                    "apgBusan",
+                    "Busan"
+                ],
+                [
+                    "apgShima",
+                    "Shima"
+                ]
+            ]
+        },
+        {
+            "name": "TSE-1",
+            "pointsArr": [
+                [
+                    "Fuzhou",
+                    "Tamsui"
+                ]
+            ]
+        },
+        {
+            "name": "CSCN",
+            "pointsArr": [
+                [
+                    "Guningtou",
+                    "Lake Ci"
+                ],
+                [
+                    "Dadeng Island",
+                    "Guanyin mountain"
+                ]
+            ]
+        },
+        {
+            "name": "NCP",
+            "pointsArr": [
+                [
+                    "NCPMaruyama",
+                    "Maruyama"
+                ],
+                [
+                    "NCPBusan",
+                    "Busan"
+                ],
+                [
+                    "NCPChongming",
+                    "Chongming"
+                ],
+                [
+                    "NCPChongming",
+                    "Nanhui"
+                ],
+                [
+                    "NCPChongming",
+                    "Lingang"
+                ],
+                [
+                    "Toucheng",
+                    "NCPChongming",
+                    "NCPBusan",
+                    "NCPMaruyama",
+                    "NCPPacificCity4",
+                    "NCPPacificCity3",
+                    "NCPPacificCity2",
+                    "NCPPacificCity1",
+                    "Pacific City"
+                ]
+            ]
+        },
+        {
+            "name": "FASTER",
+            "pointsArr": [
+                [
+                    "FASTERChikura",
+                    "Chikura"
+                ],
+                [
+                    "FASTERShima",
+                    "Shima"
+                ],
+                [
+                    "Bandon",
+                    "FASTERBandon1",
+                    "FASTERBandon2",
+                    "FASTERBandon3",
+                    "FASTERBandon4",
+                    "FASTERChikura",
+                    "FASTERShima",
+                    "FASTERTanshui",
+                    "Tanshui"
+                ]
+            ]
+        },
+        {
+            "name": "BtoBE",
+            "pointsArr": [
+                [
+                    "BtoBEChungHomKok",
+                    "Chung Hom Kok"
+                ],
+                [
+                    "BtoBECherating",
+                    "Cherating"
+                ],
+                [
+                    "BtoBECherating",
+                    "Changi North"
+                ],
+                [
+                    "Morro Bay",
+                    "BtoBEMorroBay1",
+                    "BtoBEMorroBay2",
+                    "BtoBEMorroBay3",
+                    "BtoBEMorroBay4",
+                    "BtoBEMorroBay5",
+                    "BtoBEMorroBay6",
+                    "BtoBEChungHomKok",
+                    "BtoBECherating"
+                ]
+            ]
+        },
+        {
+            "name": "2Africa",
+            "pointsArr": [
+                [
+                    "2AfricaCarcavelos",
+                    "Carcavelos"
+                ],
+                [
+                    "2AfricaDakar",
+                    "Dakar"
+                ],
+                [
+                    "2AfricaAbidjan",
+                    "Abidjan"
+                ],
+                [
+                    "2AfricaAccra",
+                    "Accra"
+                ],
+                [
+                    "2AfricaAccra",
+                    "Lagos"
+                ],
+                [
+                    "2AfricaPointeNoire",
+                    "Pointe-Noire"
+                ],
+                [
+                    "2AfricaLibreville",
+                    "Libreville"
+                ],
+                [
+                    "2AfricaPointeNoire",
+                    "Muanda"
+                ],
+                [
+                    "2AfricaCapeTown",
+                    "Cape Town"
+                ],
+                [
+                    "2AfricaPortElizabeth",
+                    "Port Elizabeth"
+                ],
+                [
+                    "2AfricaMtunzini",
+                    "Mtunzini"
+                ],
+                [
+                    "2AfricaMtunzini",
+                    "Maputo"
+                ],
+                [
+                    "2AfricaNacala",
+                    "Nacala"
+                ],
+                [
+                    "2AfricaNacala",
+                    "Mahajanga"
+                ],
+                [
+                    "2AfricaMombasa",
+                    "Mombasa"
+                ],
+                [
+                    "2AfricaMombasa",
+                    "Dar Es Salaam"
+                ],
+                [
+                    "2AfricaMogadishu",
+                    "Mogadishu"
+                ],
+                [
+                    "2AfricaSalalah",
+                    "Salalah"
+                ],
+                [
+                    "2AfricaPortSudan",
+                    "Port Sudan"
+                ],
+                [
+                    "2AfricaGenoa4",
+                    "Genoa"
+                ],
+                [
+                    "2AfricaGenoa4",
+                    "Marseille"
+                ],
+                [
+                    "2AfricaGenoa4",
+                    "Barcelona"
+                ],
+
+                [
+                    "Bude",
+                    "2AfricaCarcavelos",
+                    "2AfricaDakar1",
+                    "2AfricaDakar",
+                    "2AfricaAbidjan1",
+                    "2AfricaAbidjan",
+                    "2AfricaAccra",
+                    "2AfricaLibreville",
+                    "2AfricaPointeNoire",
+                    "2AfricaPointeNoire1",
+                    "2AfricaPointeNoire2",
+                    "2AfricaCapeTown",
+                    "2AfricaPortElizabeth",
+                    "2AfricaMtunzini",
+                    "2AfricaNacala",
+                    "2AfricaMombasa",
+                    "2AfricaMogadishu",
+                    "2AfricaSalalah",
+                    "2AfricaDjibouticity",
+                    "Djibouti city",
+                    "2AfricaPortSudan",
+                    "Yanbu",
+                    "Ras Ghareb",
+                    "Zafarana",
+                    "Suez",
+                    "Port Said",
+                    "2AfricaGenoa1",
+                    "2AfricaGenoa2",
+                    "2AfricaGenoa3",
+                    "2AfricaGenoa4"
+                ]
+            ]
+        }
+    ]
+}

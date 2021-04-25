@@ -14,14 +14,14 @@
       </van-dropdown-menu>
       <div class="show-later text-primary text-13">
         <div class="flex-module">
-          <van-switch
+          <!-- <van-switch
             v-model="checked"
             size="12px"
             active-color="#0085d0"
             inactive-color="#2b8fda66"
             class="sm:hidden"
           />
-          <span class="sm:hidden"> 3D</span>
+          <span class="sm:hidden"> 3D</span> -->
           <i class="iconfont iconsearch text-primary text-30 cursor-pointer"></i>
           <img class="hover-pointer sm:inline-block" src="@/assets/img/glyph-menu@3x.png" alt="">
         </div>

@@ -1,0 +1,2097 @@
+{
+    "cities": [  
+        {
+            "name": "BeiJing",
+            "lng": 117,
+            "lat": 40,
+            "type": "golbalFootprint"
+        },   
+        {
+            "lat": 41.5,
+            "lng": 104,
+            "type": "terMid",
+            "name": "khorgosBeiJingTemp2"
+        },
+        {
+            "lat": 43,
+            "lng": 92,
+            "type": "terMid",
+            "name": "khorgosBeiJingTemp1"
+        },     
+        {
+            "lat": 44.2139,
+            "lng": 80.4113,
+            "type": "cable",
+            "name": "Khorgos"
+        },
+        {
+            "name": "ShangHai",
+            "lng": 121,
+            "lat": 31,
+            "type": "golbalFootprint"
+        },
+
+        {
+            "name": "ShenZhen",
+            "lng": 114,
+            "lat": 23,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "London",
+            "lng": -0.127758,
+            "lat": 51.50735,
+            "type": "dataCenter"
+        },
+        {
+            "name": "Hong Kong",
+            "lng": 114.1960549829,
+            "lat": 22.2588427108,
+            "type": "dataCenter"
+        },
+
+        {
+            "name": "Kuala Lumpur",
+            "lng": 101.686855,
+            "lat": 3.139003,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Singapore",
+            "lng": 103.819836,
+            "lat": 1.352083,
+            "type": "dataCenter"
+        },
+        {
+            "name": "apgKuantan",
+            "lng": 105,
+            "lat": 4,
+            "type": "subMid"
+        },
+        
+        {
+            "name": "apgSongkhla",
+            "lng": 108,
+            "lat": 7,
+            "type": "subMid"
+        },
+        {
+            "name": "Songkhla",
+            "lng": 100.36,
+            "lat": 7.12,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "DA NANG",
+            "lng": 108.13,
+            "lat": 16.4,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "apgDANANG",
+            "lng": 115,
+            "lat": 16,
+            "type": "subMid"
+        },
+        {
+            "name": "apgTseungKwanO",
+            "lng": 116,
+            "lat": 19,
+            "type": "subMid"
+        },
+        {
+            "name": "apgToucheng",
+            "lng": 123,
+            "lat": 22,
+            "type": "subMid"
+        },
+        {
+            "name": "apgChongming",
+            "lng": 128,
+            "lat": 29,
+            "type": "subMid"
+        },
+        {
+            "name": "apgNanhui",
+            "lng": 126,
+            "lat": 27,
+            "type": "subMid"
+        },
+        {
+            "name": "apgBusan",
+            "lng": 130,
+            "lat": 29.5,
+            "type": "subMid"
+        },
+        {
+            "name": "apgShima",
+            "lng": 136,
+            "lat": 31,
+            "type": "subMid"
+        },
+        {
+            "name": "Stockholm",
+            "lng": 18.078647,
+            "lat": 59.326273,
+            "type": "pop"
+        },
+        {
+            "name": "Moscow",
+            "lng": 37.61501,
+            "lat": 55.75696,
+            "type": "dataCenter"
+        },
+
+        {
+            "name": "Amsterdam",
+            "lng": 4.828575,
+            "lat": 52.374696,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Paris",
+            "lng": 2.352222,
+            "lat": 48.856615,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Frankfurt",
+            "lng": 8.682127,
+            "lat": 50.110921,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Tokyo",
+            "lng": 139.732014,
+            "lat": 35.709,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Seoul",
+            "lng": 126.977969,
+            "lat": 37.566535,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Bangkok",
+            "lng": 100.571435,
+            "lat": 13.730029,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Taipei",
+            "lng": 121.5816435,
+            "lat": 25.03654119,
+            "type": "pop"
+        },
+        {
+            "name": "San Jose",
+            "lng": -121.88633,
+            "lat": 37.338207,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Los Angeles",
+            "lng": -118.24532,
+            "lat": 34.05349,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "New York",
+            "lng": -73.864827,
+            "lat": 40.844782,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Sydney",
+            "lng": 151.209296,
+            "lat": -33.86882,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Dubai",
+            "lng": 55.30883,
+            "lat": 25.26952,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Johannesburg",
+            "lng": 28.047305,
+            "lat": -26.204103,
+            "type": "golbalFootprint"
+        },
+
+        {
+            "name": "Vienna",
+            "lng": 16.373819,
+            "lat": 48.208176,
+            "type": "pop"
+        },
+        {
+            "name": "Madrid",
+            "lng": -3.70379,
+            "lat": 40.416775,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Copenhagen",
+            "lng": 12.568337,
+            "lat": 55.676097,
+            "type": "pop"
+        },
+        {
+            "name": "Brussels",
+            "lng": 4.35171,
+            "lat": 50.850338,
+            "type": "pop"
+        },
+        {
+            "name": "Dublin",
+            "lng": -6.310565,
+            "lat": 53.330204,
+            "type": "pop"
+        },
+        {
+            "name": "Oslo",
+            "lng": 10.752245,
+            "lat": 59.913866,
+            "type": "pop"
+        },
+        {
+            "name": "Prague",
+            "lng": 14.4378,
+            "lat": 50.075537,
+            "type": "pop"
+        },
+        {
+            "name": "Manila",
+            "lng": 120.98453,
+            "lat": 14.58865,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Vientiane",
+            "lng": 102.634438,
+            "lat": 17.986242,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Yangon",
+            "lng": 96.164842,
+            "lat": 16.820911,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Karachi",
+            "lng": 67.02,
+            "lat": 24.51,
+            "type": "pop"
+        },
+        {
+            "name": "Bandar Seri Begawan",
+            "lng": 114.950391,
+            "lat": 4.945303,
+            "type": "pop"
+        },
+        {
+            "name": "Miami",
+            "lng": -80.19773,
+            "lat": 25.77481,
+            "type": "pop"
+        },
+        {
+            "name": "Mexico City",
+            "lng": -99.133208,
+            "lat": 19.432608,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Santiago",
+            "lng": -70.669266,
+            "lat": -33.44889,
+            "type": "pop"
+        },
+        {
+            "name": "Auckland",
+            "lng": 174.763331,
+            "lat": -36.84846,
+            "type": "pop"
+        },
+        {
+            "name": "Hanoi",
+            "lng": 105.85462,
+            "lat": 21.02892,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Toronto",
+            "lng": -79.383184,
+            "lat": 43.653226,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Macau",
+            "lng": 113.5399996,
+            "lat": 22.18999675,
+            "type": "pop"
+        },
+        {
+            "name": "Mumbai",
+            "lng": 72.828353,
+            "lat": 18.972804,
+            "type": "pop"
+        },
+        {
+            "name": "Delhi",
+            "lng": 72.847943,
+            "lat": 19.121888,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Colombo",
+            "lng": 79.861243,
+            "lat": 6.927079,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Dhaka",
+            "lng": 90.39957,
+            "lat": 23.71323,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Almaty",
+            "lng": 76.885969,
+            "lat": 43.243116,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Istanbul",
+            "lng": 28.978359,
+            "lat": 41.008238,
+            "type": "pop"
+        },
+        {
+            "name": "Nairobi",
+            "lng": 36.827441,
+            "lat": -1.30431,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Budapest",
+            "lng": 19.040235,
+            "lat": 47.497913,
+            "type": "pop"
+        },
+        {
+            "name": "Sofia",
+            "lng": 23.321867,
+            "lat": 42.697708,
+            "type": "pop"
+        },
+        {
+            "name": "Bucharest",
+            "lng": 26.102538,
+            "lat": 44.426768,
+            "type": "pop"
+        },
+        {
+            "name": "Berlin",
+            "lng": 13.404954,
+            "lat": 52.520006,
+            "type": "pop"
+        },
+        {
+            "name": "Rome",
+            "lng": 12.496365,
+            "lat": 41.902783,
+            "type": "pop"
+        },
+        {
+            "name": "Helsinki",
+            "lng": 24.940524,
+            "lat": 60.170675,
+            "type": "pop"
+        },
+        {
+            "name": "Lisbon",
+            "lng": -9.139337,
+            "lat": 38.722253,
+            "type": "pop"
+        },
+        {
+            "name": "Luxembourg",
+            "lng": 6.05988,
+            "lat": 49.641381,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Sao Paulo",
+            "lng": -46.633309,
+            "lat": -23.55052,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Buenos Aires",
+            "lng": -58.381559,
+            "lat": -34.603684,
+            "type": "pop"
+        },
+        {
+            "name": "Zurich",
+            "lng": 8.541694,
+            "lat": 47.376888,
+            "type": "pop"
+        },
+        {
+            "name": "Enschede",
+            "lng": 6.895862,
+            "lat": 52.220679,
+            "type": "pop"
+        },
+        {
+            "name": "Zwolle",
+            "lng": 6.083022,
+            "lat": 52.516775,
+            "type": "pop"
+        },
+        {
+            "name": "Dusseldorf",
+            "lng": 6.773456,
+            "lat": 51.22774,
+            "type": "pop"
+        },
+        {
+            "name": "Munich",
+            "lng": 11.58198,
+            "lat": 48.135127,
+            "type": "pop"
+        },
+        {
+            "name": "Warsaw",
+            "lng": 21.012229,
+            "lat": 52.229675,
+            "type": "pop"
+        },
+        {
+            "name": "Milan",
+            "lng": 9.189982,
+            "lat": 45.464203,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Manchester",
+            "lng": -2.242631,
+            "lat": 53.48076,
+            "type": "pop"
+        },
+        {
+            "name": "Atlanta",
+            "lng": -84.39111,
+            "lat": 33.74831,
+            "type": "pop"
+        },
+        {
+            "name": "Chicago",
+            "lng": -87.63245,
+            "lat": 41.88425,
+            "type": "pop"
+        },
+        {
+            "name": "Dallas",
+            "lng": -96.796988,
+            "lat": 32.776664,
+            "type": "pop"
+        },
+        {
+            "name": "Denver",
+            "lng": -104.990251,
+            "lat": 39.739236,
+            "type": "pop"
+        },
+
+        {
+            "name": "Seattle",
+            "lng": -122.32945,
+            "lat": 47.603572,
+            "type": "pop"
+        },
+        {
+            "name": "Silicon Valley",
+            "lng": -122.419416,
+            "lat": 37.774929,
+            "type": "pop"
+        },
+        {
+            "name": "Washington",
+            "lng": -77.036871,
+            "lat": 38.907192,
+            "type": "pop"
+        },
+        {
+            "name": "Philadelphia",
+            "lng": -75.165222,
+            "lat": 39.952584,
+            "type": "pop"
+        },
+        {
+            "name": "Vancouver",
+            "lng": -123.120738,
+            "lat": 49.28273,
+            "type": "pop"
+        },
+        {
+            "name": "Rio de Janeiro",
+            "lng": -43.172896,
+            "lat": -22.906847,
+            "type": "pop"
+        },
+        {
+            "name": "Melbourne",
+            "lng": 144.963058,
+            "lat": -37.813629,
+            "type": "pop"
+        },
+        {
+            "name": "Jakarta",
+            "lng": 106.82648,
+            "lat": -6.17146,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Osaka",
+            "lng": 135.502165,
+            "lat": 34.693738,
+            "type": "pop"
+        },
+        {
+            "name": "2AfricaDjibouticity",
+            "lng": 51,
+            "lat": 14.5,
+            "type": "subMid"
+        },
+        {
+            "name": "Djibouti city",
+            "lng": 43.085691,
+            "lat": 11.574677,
+            "type": "pop"
+        },
+        {
+            "name": "Geneva",
+            "lng": 6.143158,
+            "lat": 46.204389,
+            "type": "pop"
+        },
+        {
+            "name": "Shinmaruyama",
+            "lng": 139.794776,
+            "lat": 35.716124,
+            "type": "pop"
+        },
+        {
+            "name": "Chikura",
+            "lng": 139.775106,
+            "lat": 35.666183,
+            "type": "pop"
+        },
+        {
+            "name": "SJCChikura1",
+            "lng": 133.775106,
+            "lat": 31.666183,
+            "type": "subMid"
+        },
+        {
+            "name": "SJCChikura2",
+            "lng": 126.775106,
+            "lat": 24.666183,
+            "type": "subMid"
+        },
+        {
+            "name": "Ho Chi Minh",
+            "lng": 106.70324,
+            "lat": 10.77824,
+            "type": "pop"
+        },
+        {
+            "name": "Islamabad",
+            "lng": 73.047885,
+            "lat": 33.68442,
+            "type": "pop"
+        },
+        {
+            "name": "Phnom Penh",
+            "lng": 104.894035,
+            "lat": 11.527462,
+            "type": "golbalFootprint"
+        },
+        {
+            "name": "Gothenburg",
+            "lng": 11.97456,
+            "lat": 57.708869,
+            "type": "pop"
+        },
+        {
+            "name": "Portland",
+            "lng": -122.646414,
+            "lat": 45.568066,
+            "type": "pop"
+        },
+        {
+            "name": "Ashburn",
+            "lng": -83.653224,
+            "lat": 31.706013,
+            "type": "pop"
+        },
+        {
+            "name": "Montreal",
+            "lng": -73.720175,
+            "lat": 45.498169,
+            "type": "pop"
+        },
+        {
+            "name": "Lyngby",
+            "lng": 12.494943,
+            "lat": 55.763515,
+            "type": "pop"
+        },
+        {
+            "name": "Courbevoie",
+            "lng": 2.25929,
+            "lat": 48.900551,
+            "type": "pop"
+        },
+        {
+            "name": "Jeddah",
+            "lng": 39.193069,
+            "lat": 21.505898,
+            "type": "pop"
+        },
+        {
+            "name": "Casablanca",
+            "lng": 3.228198,
+            "lat": 36.706014,
+            "type": "pop"
+        },
+        {
+            "name": "2AfricaCapeTown",
+            "lng": 15,
+            "lat": -36,
+            "type": "subMid"
+        },
+        {
+            "name": "Cape Town",
+            "lng": 18.655605,
+            "lat": -33.92674,
+            "type": "pop"
+        },
+        {
+            "name": "Lagos",
+            "lng": 3.372885,
+            "lat": 6.54349,
+            "type": "pop"
+        },
+        {
+            "name": "Port Louis",
+            "lng": 57.49849,
+            "lat": -20.16389,
+            "type": "pop"
+        },
+        {
+            "name": "Doha",
+            "lng": 51.511744,
+            "lat": 25.292405,
+            "type": "pop"
+        },
+        {
+            "name": "Kinshasa",
+            "lng": 15.266293,
+            "lat": -4.441931,
+            "type": "pop"
+        },
+        {
+            "name": "Lubumbashi",
+            "lng": 27.46064,
+            "lat": -11.63224,
+            "type": "pop"
+        },
+        {
+            "name": "2AfricaMombasa",
+            "lng": 42,
+            "lat": -4.5,
+            "type": "subMid"
+        },
+        {
+            "name": "Mombasa",
+            "lng": 39.668205,
+            "lat": -4.043477,
+            "type": "pop"
+        },
+        {
+            "name": "Ebene",
+            "lng": 57.489601,
+            "lat": -20.241892,
+            "type": "pop"
+        },
+        {
+            "name": "Kigali",
+            "lng": 30.104429,
+            "lat": -1.970579,
+            "type": "pop"
+        },
+        {
+            "name": "Dar es Salaam",
+            "lng": 39.28841,
+            "lat": -6.81492,
+            "type": "pop"
+        },
+        {
+            "name": "Kampala",
+            "lng": 32.58252,
+            "lat": 0.347596,
+            "type": "pop"
+        },
+        {
+            "name": "Gaborone",
+            "lng": 25.923147,
+            "lat": -24.628208,
+            "type": "pop"
+        },
+        {
+            "name": "Maseru",
+            "lng": 27.486923,
+            "lat": -29.315077,
+            "type": "pop"
+        },
+        {
+            "name": "Maputo",
+            "lng": 32.573174,
+            "lat": -25.969248,
+            "type": "pop"
+        },
+        {
+            "name": "Copperbelt Province",
+            "lng": 27.93959,
+            "lat": -13.0806,
+            "type": "pop"
+        },
+        {
+            "name": "Lusaka",
+            "lng": 28.326655,
+            "lat": -15.431175,
+            "type": "pop"
+        },
+        {
+            "name": "Bulawayo",
+            "lng": 28.626478,
+            "lat": -20.132507,
+            "type": "pop"
+        },
+        {
+            "name": "Masvingo",
+            "lng": 30.816191,
+            "lat": -20.06172,
+            "type": "pop"
+        },
+        {
+            "name": "Mutare",
+            "lng": 32.671471,
+            "lat": -18.97299,
+            "type": "pop"
+        },
+        {
+            "name": "Sost",
+            "lng": 8.105754,
+            "lat": 51.571147,
+            "type": "pop"
+        },
+        {
+            "name": "Carmona",
+            "lng": 121.042617,
+            "lat": 14.311519,
+            "type": "pop"
+        },
+        {
+            "name": "Muscat",
+            "lng": 58.59126,
+            "lat": 23.61523,
+            "type": "pop"
+        },
+        {
+            "name": "Taichung",
+            "lng": 120.673645,
+            "lat": 24.147736,
+            "type": "pop"
+        },
+        {
+            "name": "Marseille",
+            "lng": 5.335099,
+            "lat": 43.280494,
+            "type": "pop"
+        },
+        {
+            "name": "Kyiv",
+            "lng": 30.5234,
+            "lat": 50.450099,
+            "type": "pop"
+        },
+        {
+            "name": "lwow",
+            "lng": 24.029716,
+            "lat": 49.839684,
+            "type": "pop"
+        },
+        {
+            "name": "Zhitomir",
+            "lng": 28.71,
+            "lat": 50.25,
+            "type": "pop"
+        },
+        {
+            "name": "Zagreb",
+            "lng": 15.981919,
+            "lat": 45.81501,
+            "type": "pop"
+        },
+        {
+            "name": "Bratislava",
+            "lng": 17.107748,
+            "lat": 48.148598,
+            "type": "pop"
+        },
+        {
+            "name": "Ljubljana",
+            "lng": 14.505752,
+            "lat": 46.056946,
+            "type": "pop"
+        },
+        {
+            "name": "Belgrade",
+            "lng": 20.448921,
+            "lat": 44.786568,
+            "type": "pop"
+        },
+        {
+            "name": "Manamah",
+            "lng": 56.009892,
+            "lat": 25.32448,
+            "type": "pop"
+        },
+        {
+            "name": "Podgorica",
+            "lng": 19.265551,
+            "lat": 42.438061,
+            "type": "pop"
+        },
+        {
+            "lat": 53.551086,
+            "lng": 9.993682,
+            "type": "cable",
+            "name": "Hamburg"
+        },
+        {
+            "lat": 59.436962,
+            "lng": 24.753574,
+            "type": "cable",
+            "name": "Tallinn"
+        },
+        {
+            "lat": 60.169892,
+            "lng": 24.938317,
+            "type": "cable",
+            "name": "Helslnki"
+        },
+        {
+            "lat": 59.933177,
+            "lng": 30.30604,
+            "type": "cable",
+            "name": "St.Petersburg"
+        },
+        {
+            "lat": 53.241505,
+            "lng": 50.221246,
+            "type": "cable",
+            "name": "Samara"
+        },
+        {
+            "lat": 55.023957,
+            "lng": 73.314936,
+            "type": "cable",
+            "name": "Omsk"
+        },
+        {
+            "lat": 55.939227,
+            "lng": 98.000622,
+            "type": "cable",
+            "name": "Tayshet"
+        },
+        {
+            "lat": 51.834141,
+            "lng": 107.586777,
+            "type": "cable",
+            "name": "Ulan-Ude"
+        },
+        {
+            "lat": 52.051502,
+            "lng": 113.471191,
+            "type": "cable",
+            "name": "Chita"
+        },
+
+        {
+            "lat": 48.58105,
+            "lng": 117,
+            "type": "cable",
+            "name": "Zabaikalsk"
+        },
+        {
+            "lat": 43.6488,
+            "lng": 111.958367,
+            "type": "cable",
+            "name": "Manzhouli"
+        },
+        {
+            "lat": 23.135336,
+            "lng": 113.271429,
+            "type": "cable",
+            "name": "Guangzhou"
+        },
+        {
+            "lat": 50.264893,
+            "lng": 19.023781,
+            "type": "cable",
+            "name": "Katowice"
+        },
+        {
+            "lat": 50.064651,
+            "lng": 19.944981,
+            "type": "cable",
+            "name": "Krakow"
+        },
+        {
+            "lat": 49.839684,
+            "lng": 24.029716,
+            "type": "cable",
+            "name": "Lviv"
+        },
+        {
+            "lat": 49.839684,
+            "lng": 40.029716,
+            "type": "terMid",
+            "name": "LvivAktobetemp1"
+            
+        },
+        {
+            "lat": 50.613201,
+            "lng": 26.25695,
+            "type": "cable",
+            "name": "Rivne"
+        },
+        {
+            "lat": 51.498199,
+            "lng": 31.289351,
+            "type": "cable",
+            "name": "Chernihiv"
+        },
+        {
+            "lat": 50.9077,
+            "lng": 34.7981,
+            "type": "cable",
+            "name": "Sumy"
+        },
+        {
+            "lat": 49.9935,
+            "lng": 36.230385,
+            "type": "cable",
+            "name": "Kharkiv"
+        },
+        {
+            "lat": 51.675496,
+            "lng": 39.208882,
+            "type": "cable",
+            "name": "Voronezh"
+        },
+        {
+            "lat": 51.22782,
+            "lng": 51.386543,
+            "type": "cable",
+            "name": "Uralsk"
+        },
+        {
+            "lat": 50.293338,
+            "lng": 57.107969,
+            "type": "cable",
+            "name": 
+            "Aktobe"
+        },
+        {
+            "lat": 44.808006,
+            "lng": 65.569075,
+            "type": "cable",
+            "name": "Kyzylorda"
+        },
+        {
+            "lat": 42.333309,
+            "lng": 69.621811,
+            "type": "cable",
+            "name": "Shymkent"
+        },
+        {
+            "lat": 42.882462,
+            "lng": 71.381882,
+            "type": "cable",
+            "name": "Taraz"
+        },
+        {
+            "lat": 42.298885,
+            "lng": 69.610233,
+            "type": "cable",
+            "name": "Shymkent"
+        },
+
+        {
+            "lat": 49.464844,
+            "lng": 105.974594,
+            "type": "cable",
+            "name": "Darkhan"
+        },
+        {
+            "lat": 43.6488,
+            "lng": 111.958367,
+            "type": "cable",
+            "name": "Erenhot"
+        },
+        {
+            "lat": 50.286381,
+            "lng": 57.189491,
+            "type": "cable",
+            "name": "Aktobe"
+        },
+        {
+            "lat": 42.830631,
+            "lng": 73.885658,
+            "type": "cable",
+            "name": "Kara-Balta"
+        },
+        {
+            "lat": 50.40051,
+            "lng": 73.0625,
+            "type": "cable",
+            "name": "Saryozek"
+        },
+        {
+            "lat": 45.17967,
+            "lng": 82.560725,
+            "type": "cable",
+            "name": "Alataw Shankou"
+        },
+        {
+            "lat": 38.17967,
+            "lng": 92.560725,
+            "type": "terMid",
+            "name": "AlatawShankouGuangzhouTemp1"
+        },
+        {
+            "lat": 30.17967,
+            "lng": 102.560725,
+            "type": "terMid",
+            "name": "AlatawShankouGuangzhouTemp2"
+        },
+        {
+            "lat": 23.154421,
+            "lng": 113.336911,
+            "type": "cable",
+            "name": "Guangzhou"
+        },
+        {
+            "lat": 59.375961,
+            "lng": 28.604339,
+            "type": "cable",
+            "name": "Kingisepp"
+        },
+        {
+            "lat": 56.837638,
+            "lng": 60.59891,
+            "type": "cable",
+            "name": "Yekaterinburg"
+        },
+        {
+            "lat": 55.047355,
+            "lng": 82.960965,
+            "type": "cable",
+            "name": "Noovosibirsk"
+        },
+        {
+            "lat": 50.404262,
+            "lng": 106.40869,
+            "type": "cable",
+            "name": "Khyagt"
+        },
+        {
+            "lat": 50.749323,
+            "lng": 25.302769,
+            "type": "cable",
+            "name": "Lutsk"
+        },
+        {
+            "lat": 54.481227,
+            "lng": 53.453122,
+            "type": "cable",
+            "name": "Oktyabrsky"
+        },
+        
+        {
+            "lat": 54.6,
+            "lng": 70,
+            "type": "terMid",
+            "name": "OktyabrskyNoovosibirskTemp1"
+        },
+        {
+            "lat": 25.066503,
+            "lng": 102.733303,
+            "type": "cable",
+            "name": "Kunming"
+        },
+        {
+            "lat": 10.82454,
+            "lng": 106.628118,
+            "type": "cable",
+            "name": "Ho Chi Minh City"
+        },
+        {
+            "lat": 52.3759,
+            "lng": 9.732,
+            "type": "cable",
+            "name": "Hanover"
+        },
+        {
+            "lat": 53.906892,
+            "lng": 27.36789,
+            "type": "cable",
+            "name": "Minsk"
+        },
+        {
+            "lat": 56.296505,
+            "lng": 43.936058,
+            "type": "cable",
+            "name": "Nizhny Novgorod"
+        },
+        {
+            "lat": 56.145748,
+            "lng": 47.252178,
+            "type": "cable",
+            "name": "Cheboksary"
+        },
+        {
+            "lat": 55.78433,
+            "lng": 49.11981,
+            "type": "cable",
+            "name": "Kszan"
+        },
+        {
+            "lat": 58.029682,
+            "lng": 56.266792,
+            "type": "cable",
+            "name": "Perm"
+        },
+        {
+            "lat": 57.153381,
+            "lng": 65.541924,
+            "type": "cable",
+            "name": "Tyumen"
+        },
+        {
+            "lat": 54.988481,
+            "lng": 73.324236,
+            "type": "cable",
+            "name": "Omsk"
+        },
+        {
+            "lat": 55.008354,
+            "lng": 82.93573,
+            "type": "cable",
+            "name": "Novosibirsk"
+        },
+        {
+            "lat": 53.347771,
+            "lng": 83.778358,
+            "type": "cable",
+            "name": "Barnaul"
+        },
+        {
+            "lat": 56.015283,
+            "lng": 92.893248,
+            "type": "cable",
+            "name": "Krasnoyarsk"
+        },
+        {
+            "lat": 52.286976,
+            "lng": 104.305016,
+            "type": "cable",
+            "name": "Irkutsk"
+        },
+        {
+            "lat": 47.922152,
+            "lng": 106.91767,
+            "type": "cable",
+            "name": "Ulaanbaatar"
+        },
+        {
+            "name": "Tuas",
+            "lng": 103.630483,
+            "lat": 1.294947,
+            "type": "cable"
+        },
+        
+        {
+            "name": "SMW5TuasDumai",
+            "lng": 100.630483,
+            "lat": 2.894947,
+            "type": "subMid"
+        },
+        {
+            "name": "Dumai",
+            "lng": 101.42453,
+            "lat": 1.630087,
+            "type": "cable"
+        },
+        {
+            "name": "Malacca",
+            "lng": 102.249063,
+            "lat": 2.194418,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5TuasMedan",
+            "lng": 98,
+            "lat": 6,
+            "type": "subMid"
+        },
+        {
+            "name": "Medan",
+            "lng": 98.67695,
+            "lat": 3.59211,
+            "type": "cable"
+        },
+        {
+            "name": "Ngwe Saung",
+            "lng": 94.384781,
+            "lat": 16.868508,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5NgweSaung",
+            "lng": 93,
+            "lat": 17,
+            "type": "subMid"
+        },
+        {
+            "name": "SMW5Kuakata",
+            "lng": 91,
+            "lat": 19.5,
+            "type": "subMid"
+        },
+        {
+            "name": "Kuakata",
+            "lng": 90.356331,
+            "lat": 23.684994,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5Matara",
+            "lng": 84,
+            "lat": 11.5,
+            "type": "subMid"
+        },
+        {
+            "name": "Matara",
+            "lng": 80.554956,
+            "lat": 5.95492,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5Matara1",
+            "lng": 82,
+            "lat": 5.9,
+            "type": "subMid"
+        },
+        {
+            "name": "SMW5Matara2",
+            "lng": 80,
+            "lat": 4.5,
+            "type": "subMid"
+        },
+        {
+            "name": "SMW5Karachi1",
+            "lng": 71.02,
+            "lat": 14.51,
+            "type": "subMid"
+        },
+        {
+            "name": "SMW5Karachi",
+            "lng": 67.02,
+            "lat": 17.51,
+            "type": "subMid"
+        },
+        {
+            "name": "SMW5Qalhat",
+            "lng": 64,
+            "lat": 21,
+            "type": "subMid"
+        },
+        {
+            "name": "Qalhat",
+            "lng": 59.368122,
+            "lat": 22.706198,
+            "type": "cable"
+        },
+        {
+            "name": "Fujairah",
+            "lng": 56.274145,
+            "lat": 25.23335,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5DjiboutiCity",
+            "lng": 53.085691,
+            "lat": 14.574677,
+            "type": "subMid"
+        },
+        {
+            "name": "Al-Hudaydah",
+            "lng": 42.98,
+            "lat": 14.75,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5Yanbu",
+            "lng": 38.189064,
+            "lat": 22.2,
+            "type": "subMid"
+        },
+
+        {
+            "name": "Zafarana",
+            "lng": 32.661021,
+            "lat": 29.110645,
+            "type": "cable"
+        },
+        {
+            "name": "Abu Talat",
+            "lng": 29.688474,
+            "lat": 31.061594,
+            "type": "cable"
+        },
+        {
+            "name": "Marmaris",
+            "lng": 28.252777,
+            "lat": 36.852479,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5Marmaris",
+            "lng": 22.252777,
+            "lat": 34.852479,
+            "type": "subMid"
+        },
+        {
+            "name": "Catania",
+            "lng": 15.083031,
+            "lat": 37.507877,
+            "type": "cable"
+        },
+        {
+            "name": "SMW5Catania",
+            "lng": 14.083031,
+            "lat": 35.507877,
+            "type": "subMid"
+        },
+        {
+            "name": "SMW5Toulon",
+            "lng": 6.237595,
+            "lat": 40.467646,
+            "type": "subMid"
+        },
+        {
+            "name": "Toulon",
+            "lng": 6.237595,
+            "lat": 43.467646,
+            "type": "cable"
+        },
+        {
+            "name": "Shantou",
+            "lng": 116.688529,
+            "lat": 23.359091,
+            "type": "cable"
+        },
+        {
+            "name": "SJCShantou",
+            "lng": 118.688529,
+            "lat": 20.359091,
+            "type": "subMid"
+        },
+        {
+            "name": "Chung Hom Kok",
+            "lng": 114.208128,
+            "lat": 22.260953,
+            "type": "cable"
+        },
+        {
+            "name": "SJCChungHomKok",
+            "lng": 118.208128,
+            "lat": 19.260953,
+            "type": "subMid"
+        },
+        {
+            "name": "SJCNasugbu",
+            "lng": 118.208128,
+            "lat": 15.260953,
+            "type": "subMid"
+        },
+        {
+            "name": "Nasugbu",
+            "lng": 120.665886,
+            "lat": 14.131833,
+            "type": "cable"
+        },
+        {
+            "name": "SJCTelisai",
+            "lng": 113.208128,
+            "lat": 6.260953,
+            "type": "subMid"
+        },
+        {
+            "name": "Telisai",
+            "lng": 114.56229,
+            "lat": 4.710982,
+            "type": "cable"
+        },
+        {
+            "name": "Tuas",
+            "lng": 103.630483,
+            "lat": 1.294947,
+            "type": "cable"
+        },
+        {
+            "name": "Shima",
+            "lng": 136.795184,
+            "lat": 34.305815,
+            "type": "cable"
+        },
+        {
+            "name": "Busan",
+            "lng": 129.075642,
+            "lat": 35.179554,
+            "type": "cable"
+        },
+        {
+            "name": "Lingang",
+            "lng": 121.833521,
+            "lat": 30.938554,
+            "type": "cable"
+        },
+        {
+            "name": "Tamsui",
+            "lng": 114.470915,
+            "lat": 22.798454,
+            "type": "cable"
+        },
+        {
+            "name": "Fangshan",
+            "lng": 120.707096,
+            "lat": 22.923534,
+            "type": "cable"
+        },
+        {
+            "name": "SJC2Fangshan",
+            "lng": 120.707096,
+            "lat": 20.923534,
+            "type": "subMid"
+        },
+        {
+            "name": "SJC2QuyNhon",
+            "lng": 114,
+            "lat": 15,
+            "type": "subMid"
+        },
+        {
+            "name": "Quy Nhon",
+            "lng": 109.172058,
+            "lat": 13.725548,
+            "type": "cable"
+        },
+        {
+            "name": "Songkhla",
+            "lng": 100.595381,
+            "lat": 7.189766,
+            "type": "cable"
+        },
+        {
+            "name": "Changi South",
+            "lng": 103.967664,
+            "lat": 1.332903,
+            "type": "cable"
+        },
+        {
+            "name": "Shima",
+            "lng": 136.795184,
+            "lat": 34.305815,
+            "type": "cable"
+        },
+        {
+            "name": "Busan",
+            "lng": 129.075642,
+            "lat": 35.179554,
+            "type": "cable"
+        },
+        {
+            "name": "Chongming",
+            "lng": 121.403555,
+            "lat": 31.628569,
+            "type": "cable"
+        },
+        {
+            "name": "Nanhui",
+            "lng": 121.756092,
+            "lat": 31.053614,
+            "type": "cable"
+        },
+        {
+            "name": "Toucheng",
+            "lng": 121.436114,
+            "lat": 24.875847,
+            "type": "cable"
+        },
+        {
+            "name": "Tseung Kwan O",
+            "lng": 114.26041,
+            "lat": 22.303097,
+            "type": "cable"
+        },
+        {
+            "name": "Danang",
+            "lng": 108.222445,
+            "lat": 16.072836,
+            "type": "cable"
+        },
+        {
+            "name": "Songkhla",
+            "lng": 100.595381,
+            "lat": 7.189766,
+            "type": "cable"
+        },
+        {
+            "name": "Kuantan",
+            "lng": 103.077194,
+            "lat": 3.862176,
+            "type": "cable"
+        },
+        {
+            "name": "Tanah Merah",
+            "lng": 103.946286,
+            "lat": 1.327298,
+            "type": "cable"
+        },
+        {
+            "name": "Fuzhou",
+            "lng": 119.30347,
+            "lat": 26.080429,
+            "type": "cable"
+        },
+        {
+            "name": "Tamsui",
+            "lng": 121.441456,
+            "lat": 25.193596,
+            "type": "cable"
+        },
+        {
+            "name": "Guningtou",
+            "lng": 118.320499,
+            "lat": 24.481854,
+            "type": "cable"
+        },
+        {
+            "name": "Lake Ci",
+            "lng": 118.30561,
+            "lat": 24.469397,
+            "type": "cable"
+        },
+        {
+            "name": "Dadeng Island",
+            "lng": 118.350464,
+            "lat": 24.560407,
+            "type": "cable"
+        },
+        {
+            "name": "Guanyin mountain",
+            "lng": 118.136963,
+            "lat": 24.4535,
+            "type": "cable"
+        },
+        {
+            "name": "Pacific City",
+            "lng": -123.963097,
+            "lat": 45.210844,
+            "type": "cable"
+        },
+        {
+            "name": "NCPPacificCity1",
+            "lng": -144.963097,
+            "lat": 43.210844,
+            "type": "subMid"
+        },
+        {
+            "name": "NCPPacificCity2",
+            "lng": -170.963097,
+            "lat": 41.210844,
+            "type": "subMid"
+        },
+        {
+            "name": "NCPPacificCity3",
+            "lng": 168.963097,
+            "lat": 39.210844,
+            "type": "subMid"
+        },
+        {
+            "name": "NCPPacificCity4",
+            "lng": 152.963097,
+            "lat": 35.210844,
+            "type": "subMid"
+        },
+        {
+            "name": "NCPMaruyama",
+            "lng": 142.963097,
+            "lat": 32.210844,
+            "type": "subMid"
+        },
+        {
+            "name": "NCPBusan",
+            "lng": 128,
+            "lat": 29.5,
+            "type": "subMid"
+        },
+        {
+            "name": "NCPChongming",
+            "lng": 126,
+            "lat": 28,
+            "type": "subMid"
+        },
+        {
+            "name": "Maruyama",
+            "lng": 139.841738,
+            "lat": 34.983205,
+            "type": "cable"
+        },
+        {
+            "name": "Busan",
+            "lng": 129.075642,
+            "lat": 35.179554,
+            "type": "cable"
+        },
+        {
+            "name": "Nanhui",
+            "lng": 121.756092,
+            "lat": 31.053614,
+            "type": "cable"
+        },
+        {
+            "name": "Lingang",
+            "lng": 121.826603,
+            "lat": 30.963092,
+            "type": "cable"
+        },
+        {
+            "name": "Toucheng",
+            "lng": 121.436114,
+            "lat": 24.875847,
+            "type": "cable"
+        },
+        {
+            "name": "Bandon",
+            "lng": -124.420976,
+            "lat": 43.116757,
+            "type": "cable"
+        },
+
+        {
+            "name": "FASTERBandon1",
+            "lng": -144.963097,
+            "lat": 41.116757,
+            "type": "subMid"
+        },
+        {
+            "name": "FASTERBandon2",
+            "lng": -170.963097,
+            "lat": 40.116757,
+            "type": "subMid"
+        },
+        {
+            "name": "FASTERBandon3",
+            "lng": 168.963097,
+            "lat": 38.116757,
+            "type": "subMid"
+        },
+        {
+            "name": "FASTERBandon4",
+            "lng": 152.963097,
+            "lat": 36.116757,
+            "type": "subMid"
+        },
+        {
+            "name": "FASTERChikura",
+            "lng": 141.775106,
+            "lat": 34.666183,
+            "type": "subMid"
+        },
+        {
+            "name": "FASTERShima",
+            "lng": 138.775106,
+            "lat": 32.666183,
+            "type": "subMid"
+        },
+        {
+            "name": "Shima",
+            "lng": 136.795184,
+            "lat": 34.305815,
+            "type": "cable"
+        },
+        {
+            "name": "FASTERTanshui",
+            "lng": 128.440915,
+            "lat": 29.169452,
+            "type": "cable"
+        },
+        {
+            "name": "Tanshui",
+            "lng": 121.440915,
+            "lat": 25.169452,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaAbidjan1",
+            "lng": -12,
+            "lat": 6,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaAbidjan",
+            "lng": -5,
+            "lat": 2,
+            "type": "subMid"
+        },
+        {
+            "name": "Abidjan",
+            "lng": -4.006525,
+            "lat": 5.360467,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaAccra",
+            "lng": 2,
+            "lat": 2,
+            "type": "subMid"
+        },
+        {
+            "name": "Accra",
+            "lng": -0.187629,
+            "lat": 5.601455,
+            "type": "cable"
+        },
+        {
+            "name": "Barcelona",
+            "lng": 2.173341,
+            "lat": 41.385549,
+            "type": "cable"
+        },
+        {
+            "name": "Bude",
+            "lng": -4.543706,
+            "lat": 50.826649,
+            "type": "cable"
+        },
+        {
+            "name": "Carcavelos",
+            "lng": -9.337548,
+            "lat": 38.688049,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaCarcavelos",
+            "lng": -12,
+            "lat": 39,
+            "type": "subMid"
+        },
+
+        {
+            "name": "2AfricaDakar1",
+            "lng": -21,
+            "lat": 25,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaDakar",
+            "lng": -19,
+            "lat": 14,
+            "type": "subMid"
+        },
+        {
+            "name": "Dakar",
+            "lng": -17.467538,
+            "lat": 14.716884,
+            "type": "cable"
+        },
+        {
+            "name": "Dar Es Salaam",
+            "lng": 39.209645,
+            "lat": -6.789345,
+            "type": "cable"
+        },
+        {
+            "name": "Genoa",
+            "lng": 8.946277,
+            "lat": 44.405366,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaGenoa1",
+            "lng": 20,
+            "lat": 35,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaGenoa2",
+            "lng": 15,
+            "lat": 35,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaGenoa3",
+            "lng": 6,
+            "lat": 39,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaGenoa4",
+            "lng": 8,
+            "lat": 42,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaLibreville",
+            "lng": 6,
+            "lat": 0,
+            "type": "subMid"
+        },
+        {
+            "name": "Libreville",
+            "lng": 9.467805,
+            "lat": 0.415996,
+            "type": "cable"
+        },
+        {
+            "name": "Mahajanga",
+            "lng": 46.33269,
+            "lat": -15.692381,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaMogadishu",
+            "lng": 48,
+            "lat": 2.033832,
+            "type": "subMid"
+        },
+        {
+            "name": "Mogadishu",
+            "lng": 45.340612,
+            "lat": 2.033832,
+            "type": "cable"
+        },
+        {
+            "name": "Mtunzini",
+            "lng": 31.749618,
+            "lat": -28.959457,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaMtunzini",
+            "lng": 35,
+            "lat": -28,
+            "type": "subMid"
+        },
+        {
+            "name": "Muanda",
+            "lng": 12.363439,
+            "lat": -5.923965,
+            "type": "cable"
+        },
+
+        {
+            "name": "Nacala",
+            "lng": 40.685419,
+            "lat": -14.566107,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaNacala",
+            "lng": 43,
+            "lat": -14.5,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaPointeNoire",
+            "lng": 8,
+            "lat": -5,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaPointeNoire1",
+            "lng": 9,
+            "lat": -18,
+            "type": "subMid"
+        },
+        {
+            "name": "2AfricaPointeNoire2",
+            "lng": 11,
+            "lat": -29,
+            "type": "subMid"
+        },
+
+        {
+            "name": "Pointe-Noire",
+            "lng": 11.866783,
+            "lat": -4.769551,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaPortElizabeth",
+            "lng": 26,
+            "lat": -37,
+            "type": "subMid"
+        },
+        {
+            "name": "Port Elizabeth",
+            "lng": 25.602315,
+            "lat": -33.960999,
+            "type": "cable"
+        },
+        {
+            "name": "Port Said",
+            "lng": 32.301821,
+            "lat": 31.265281,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaPortSudan",
+            "lng": 39,
+            "lat": 20,
+            "type": "subMid"
+        },
+        {
+            "name": "Port Sudan",
+            "lng": 37.189064,
+            "lat": 19.590982,
+            "type": "cable"
+        },
+        {
+            "name": "Ras Ghareb",
+            "lng": 33.079189,
+            "lat": 28.364412,
+            "type": "cable"
+        },
+        {
+            "name": "2AfricaSalalah",
+            "lng": 53,
+            "lat": 13,
+            "type": "subMid"
+        },
+        {
+            "name": "Salalah",
+            "lng": 54.110116,
+            "lat": 17.034153,
+            "type": "cable"
+        },
+        {
+            "name": "Suez",
+            "lng": 32.549815,
+            "lat": 29.966907,
+            "type": "cable"
+        },
+        {
+            "name": "Yanbu",
+            "lng": 38.190353,
+            "lat": 24.023228,
+            "type": "cable"
+        },
+        {
+            "name": "Zafarana",
+            "lng": 32.659795,
+            "lat": 29.111848,
+            "type": "cable"
+        },
+        {
+            "name": "Morro Bay",
+            "lng": -120.849992,
+            "lat": 35.365944,
+            "type": "cable"
+        },
+        {
+            "name": "BtoBEMorroBay1",
+            "lng": -140,
+            "lat": 32,
+            "type": "subMid"
+        },
+        {
+            "name": "BtoBEMorroBay2",
+            "lng": -160,
+            "lat": 30,
+            "type": "subMid"
+        },
+        {
+            "name": "BtoBEMorroBay3",
+            "lng": 179,
+            "lat": 28,
+            "type": "subMid"
+        },
+        {
+            "name": "BtoBEMorroBay4",
+            "lng": 160,
+            "lat": 26,
+            "type": "subMid"
+        },
+        {
+            "name": "BtoBEMorroBay5",
+            "lng": 140,
+            "lat": 24,
+            "type": "subMid"
+        },
+        {
+            "name": "BtoBEMorroBay6",
+            "lng": 128,
+            "lat": 22.5,
+            "type": "subMid"
+        },
+                {
+            "name": "BtoBEChungHomKok",
+            "lng": 117,
+            "lat": 21,
+            "type": "subMid"
+        },
+        {
+            "name": "BtoBECherating",
+            "lng": 110,
+            "lat": 9,
+            "type": "subMid"
+        },
+        {
+            "name": "Cherating",
+            "lng": 103.383,
+            "lat": 4.1000,
+            "type": "cable"
+        },
+        {
+            "name": "Changi North",
+            "lng": 103.983209,
+            "lat": 1.34501,
+            "type": "cable"
+        }
+    ]
+}
